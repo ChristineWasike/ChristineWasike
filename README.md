@@ -9,9 +9,6 @@ With a mission to promote tech literacy on the African continent :lion:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
