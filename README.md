@@ -5,7 +5,7 @@
 ### I'm a Computer Science Major 
 Studying at the African Leadership University <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px">
 <br>
-With a mission to promote tech literacy on the African continent :lion:
+With a mission to promote tech literacy on the African continent <img src="https://i.pinimg.com/originals/d0/5f/0e/d05f0e25872ad7d945771033967351b2.gif" width= "25px">
 <br>
 Check out my recent blog post on [section][section] 📝
 <br>
@@ -37,3 +37,4 @@ Check out my recent blog post on [section][section] 📝
 [twitter]: https://twitter.com/ChristiWasike
 [spotify]: https://open.spotify.com/user/31opcw67k3gg2r4rdmvrcew7af7i
 [section]: https://www.section.io/engineering-education/deploying-your-android-app-to-google-play-store/
+[lion]:https://i.pinimg.com/originals/d0/5f/0e/d05f0e25872ad7d945771033967351b2.gif
