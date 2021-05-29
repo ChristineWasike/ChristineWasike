@@ -1,10 +1,11 @@
-## Hey there! I'm Christine, otherwise known as Spongey. 
+## Hey there! I'm Christine, otherwise known as Spongey
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-I'm a Computer Science Major at the African Leadership University <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px">
+### I'm a Computer Science Major 
+Studying at the African Leadership University <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px">
 <br>
-I've got a mission to promote tech literacy on the African continent :lion:
+With a mission to promote tech literacy on the African continent :lion:
 <br>
 <br>
 <br>
