@@ -28,8 +28,6 @@ Check out my recent blog post on section [📝][section]
 
 <br />
 
----
-
 <!-- <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristineWasike&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Christine Wasike's Github Stats">
 </p> -->
