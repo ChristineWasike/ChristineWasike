@@ -8,7 +8,7 @@ Studying at the African Leadership University <img src="https://github.githubass
 <br>
 With a mission to promote tech literacy on the African continent <img src="https://i.pinimg.com/originals/d0/5f/0e/d05f0e25872ad7d945771033967351b2.gif" width= "25px">
 <br>
-Check out my recent blog post on section 📝
+Check out my recent blog post on section [📝][section]
 <br>
 <br>
 
