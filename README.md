@@ -21,7 +21,7 @@ Check out my recent blog post on section [📝][section]
 </a>
 </p>
 
-### Contact me 📝
+### Reach out
 [<img align="left" alt="ChristineWasike | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="ChristineWasike | Instagram" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
 [<img align="left" alt="ChristineWasike | Spotify" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111624.png" />][Spotify]
