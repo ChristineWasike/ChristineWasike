@@ -7,6 +7,7 @@ Studying at the African Leadership University <img src="https://github.githubass
 <br>
 With a mission to promote tech literacy on the African continent :lion:
 <br>
+Check out my recent blog post on [section][section] 📝
 <br>
 <br>
 
@@ -35,3 +36,4 @@ With a mission to promote tech literacy on the African continent :lion:
 [linkedin]: https://www.linkedin.com/in/christinewasike/
 [twitter]: https://twitter.com/ChristiWasike
 [spotify]: https://open.spotify.com/user/31opcw67k3gg2r4rdmvrcew7af7i
+[section]: https://www.section.io/engineering-education/deploying-your-android-app-to-google-play-store/
