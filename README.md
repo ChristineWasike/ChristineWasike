@@ -22,9 +22,9 @@ Check out my recent blog post on section [📝][section]
 </p>
 
 ### Reach out
-[<img align="left" alt="ChristineWasike | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="ChristineWasike | Instagram" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
-[<img align="left" alt="ChristineWasike | Spotify" height="30px" src="https://image.flaticon.com/icons/png/512/2111/2111624.png" />][Spotify]
+[<img align="left" alt="ChristineWasike | LinkedIn" height="30px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1648119268~hmac=92c5286cef0ff73ebe8ffcb349e28dde"/>][linkedin]
+[<img align="left" alt="ChristineWasike | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img align="left" alt="ChristineWasike | Spotify" height="30px" src="https://cdn-icons.flaticon.com/png/512/3669/premium/3669986.png?token=exp=1648119311~hmac=0dc9e15f4b50c62b38c42e483e376fe3" />][Spotify]
 
 <br />
 
