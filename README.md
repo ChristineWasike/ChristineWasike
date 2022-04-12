@@ -1,13 +1,13 @@
-## Hey there! <br>I'm Christine, a Software Engineer from Kenya
+## Hey there! <br>I'm Christine, a Software Engineer from Kenya <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px">
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-Studied at the African Leadership University <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px">
+studied at the African Leadership University
 <br>
-With a mission to promote tech literacy on the African continent <img src="https://i.pinimg.com/originals/d0/5f/0e/d05f0e25872ad7d945771033967351b2.gif" width= "25px">
+with a mission to promote tech literacy and financial freedom on the African continent.
 <br>
-Check out my recent blog post on section [📝][section]
+check out my recent blog post on section [📝][section]
 <br>
 <br>
 
