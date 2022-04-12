@@ -1,6 +1,6 @@
 ## Hey there! <br>I'm Christine, a Software Engineer from Kenya <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 I studied at the African Leadership University with a mission to promote 
@@ -13,16 +13,8 @@ Check out my recent blog post on [section.io][section].
 <br>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/ChristineWasike">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristineWasike&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChristineWasike&layout=compact&langs_count=8&theme=vue"/>
-</a>
-</p>
-
-### Reach out
+### Find me on
 [<img align="left" alt="ChristineWasike | LinkedIn" height="30px" src="linkedin.png"/>][linkedin]
 [<img align="left" alt="ChristineWasike | Instagram" height="30px" src="instagram.png" />][instagram]
 [<img align="left" alt="ChristineWasike | Spotify" height="30px" src="spotify.png" />][Spotify]
