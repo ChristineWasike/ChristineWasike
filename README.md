@@ -2,9 +2,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm a Computer Science Major
 
-Studying at the African Leadership University <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px">
+Studied at the African Leadership University <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px">
 <br>
 With a mission to promote tech literacy on the African continent <img src="https://i.pinimg.com/originals/d0/5f/0e/d05f0e25872ad7d945771033967351b2.gif" width= "25px">
 <br>
