@@ -3,11 +3,11 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-studied at the African Leadership University
+I studied at the African Leadership University with a mission to promote 
 <br>
-with a mission to promote tech literacy and financial freedom on the African continent.
+tech literacy and financial freedom on the African continent.
 <br>
-check out my recent blog post on section [📝][section]
+Check out my recent blog post on section [📝][section]
 <br>
 <br>
 
