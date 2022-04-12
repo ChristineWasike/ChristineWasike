@@ -7,7 +7,7 @@ I studied at the African Leadership University with a mission to promote
 <br>
 tech literacy and financial freedom on the African continent.
 <br>
-Check out my recent blog post on [section.io.][section]
+Check out my recent blog post on [section.io][section].
 <br>
 <br>
 <br>
