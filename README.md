@@ -10,6 +10,8 @@ tech literacy and financial freedom on the African continent.
 Check out my recent blog post on section [📝][section]
 <br>
 <br>
+<br>
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
