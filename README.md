@@ -9,7 +9,9 @@ tech literacy and financial freedom on the African continent.
 <br>
 Check out my recent blog post on [section.io][section].
 <br>
-
+<br>
+[![wakatime](https://wakatime.com/badge/user/65097737-261b-4b95-bd53-177a6d38663f.svg)](https://wakatime.com/@65097737-261b-4b95-bd53-177a6d38663f)
+<br>
 ### Find me on
 [<img align="left" alt="ChristineWasike | LinkedIn" height="30px" src="linkedin.png"/>][linkedin]
 [<img align="left" alt="ChristineWasike | Instagram" height="30px" src="instagram.png" />][instagram]
