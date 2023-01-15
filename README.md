@@ -1,6 +1,6 @@
 ## Hey there! <br>I'm Christine, a Software Engineer from Kenya <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px">
 
-<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 
 I studied at the African Leadership University with a mission to promote 
