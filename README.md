@@ -2,7 +2,7 @@
 
 <!-- <img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChristineWasike&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChristineWasike&theme=dark)](https://git.io/streak-stats)
 
 I studied at the African Leadership University with a mission to promote 
 <br>
