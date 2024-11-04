@@ -1,5 +1,5 @@
 
-<h2 align='center'>Hello! <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px"></h1>
+<h2>Hello! <img src="https://github.githubassets.com/images/mona-whisper.gif" width= "25px"></h1>
 <p >I'm a Software Engineer building with Flutter 💙 and learning Javascript 💛. I'm also a graduate of the African Leadership University where I majored in Computer Science. I'm working on a couple of interesting solutions leveraging technologies like Lightning and Fedimint. If you're curious about that journey and what the process looks like. You can check out my Youtube channel for more. I'm also a writer with a few articles on mobile development for now.</p>
 <div>
   <a href="https://git.io/streak-stats">
