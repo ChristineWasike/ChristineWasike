@@ -10,11 +10,11 @@
 [![wakatime](https://wakatime.com/badge/user/65097737-261b-4b95-bd53-177a6d38663f.svg)](https://wakatime.com/@65097737-261b-4b95-bd53-177a6d38663f)
 <h4>Find me on</h4>
 
-[<img align="left" alt="ChristineWasike | LinkedIn" height="30px" src="linkedin.png"/>][linkedin]
-[<img align="left" alt="ChristineWasike | Youtube" height="30px" src="youtube.png" />][youtube]
-[<img align="left" alt="ChristineWasike | Twitter" height="30px" src="x.png" />][twitter]
-[<img align="left" alt="ChristineWasike | Instagram" height="30px" src="instagram.png" />][instagram]
-[<img align="left" alt="ChristineWasike | Spotify" height="30px" src="spotify.png" />][spotify]
+[<img align="left" alt="ChristineWasike | LinkedIn" target="_blank" height="30px" src="linkedin.png"/>][linkedin]
+[<img align="left" alt="ChristineWasike | Youtube" target="_blank" height="30px" src="youtube.png" />][youtube]
+[<img align="left" alt="ChristineWasike | Twitter" target="_blank" height="30px" src="x.png" />][twitter]
+[<img align="left" alt="ChristineWasike | Instagram" target="_blank" height="30px" src="instagram.png" />][instagram]
+[<img align="left" alt="ChristineWasike | Spotify" target="_blank" height="30px" src="spotify.png" />][spotify]
 
 <br />
 
