@@ -27,8 +27,6 @@ Currently building with <strong>Flutter, Firebase, Supabase, Riverpod</strong> a
 [<img align="left" alt="ChristineWasike | LinkedIn" height="30px" src="linkedin.png"/>][linkedin]
 [<img align="left" alt="ChristineWasike | Youtube" height="30px" src="youtube.png" />][youtube]
 [<img align="left" alt="ChristineWasike | Twitter" height="30px" src="x.png" />][twitter]
-[<img align="left" alt="ChristineWasike | Instagram" height="30px" src="instagram.png" />][instagram]
-[<img align="left" alt="ChristineWasike | Spotify" height="30px" src="spotify.png" />][spotify]
 
 <br />
 
