@@ -24,7 +24,9 @@ Currently building with <strong>Flutter, Firebase, Supabase, Riverpod</strong> a
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ChristineWasike&theme=dark" alt="GitHub Streak" />
   </a>
-
+</div>
+<br>
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChristineWasike&count_private=true&show_icons=true&theme=darcula" />
   </a>
