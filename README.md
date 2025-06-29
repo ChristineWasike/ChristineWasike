@@ -1,7 +1,7 @@
 <p>
 <strong>Senior Software Engineer</strong> specializing in <strong>cross-platform mobile development</strong> with <code>Flutter 💙</code>, and actively building intelligent experiences powered by <strong>AI</strong>.<br><br>
 
-I lead mobile engineering efforts across fintech, wellness, and social platforms, crafting clean and scalable apps for iOS and Android. My work blends thoughtful UI, performance-focused code, and a strong product mindset.<br><br>
+I lead mobile engineering efforts across fintech, wellness, and social platforms — crafting clean, scalable apps for iOS and Android. My work blends thoughtful UI, performance-focused code, and a strong product mindset.<br><br>
 
 Currently building with <strong>Flutter, Firebase, Supabase, Riverpod</strong> and exploring the frontier of <strong>LLMs, Bitcoin Lightning, and Fedimint</strong> to push what’s possible in mobile-first ecosystems.
 </p>
@@ -10,23 +10,33 @@ Currently building with <strong>Flutter, Firebase, Supabase, Riverpod</strong> a
 🎥 Sharing builds and experiments on <a href="https://www.youtube.com/@wasike_dev" target="_blank"><strong>YouTube</strong></a>
 </p>
 
----
+### ⚡ Technologies
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</div>
+
+### 📊 GitHub Stats
 
 <div>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ChristineWasike&theme=dark" alt="GitHub Streak" />
   </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChristineWasike&count_private=true&show_icons=true&theme=darcula" />
+  </a>
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/65097737-261b-4b95-bd53-177a6d38663f.svg)](https://wakatime.com/@65097737-261b-4b95-bd53-177a6d38663f)
-
----
-
-<h4>📡 Connect with me</h4>
+### 📡 Connect with me
 
 [<img align="left" alt="ChristineWasike | LinkedIn" height="30px" src="linkedin.png"/>][linkedin]
 [<img align="left" alt="ChristineWasike | Youtube" height="30px" src="youtube.png" />][youtube]
 [<img align="left" alt="ChristineWasike | Twitter" height="30px" src="x.png" />][twitter]
+[<img align="left" alt="ChristineWasike | Instagram" height="30px" src="instagram.png" />][instagram]
+[<img align="left" alt="ChristineWasike | Spotify" height="30px" src="spotify.png" />][spotify]
 
 <br />
 
