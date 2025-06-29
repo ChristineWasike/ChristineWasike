@@ -1,8 +1,6 @@
 <p>
-<strong>Senior Software Engineer</strong> specializing in <strong>cross-platform mobile development</strong> with <code>Flutter 💙</code>, and actively building intelligent experiences powered by <strong>AI</strong>.<br><br>
-
-I lead mobile engineering efforts across fintech, wellness, and social platforms — crafting clean, scalable apps for iOS and Android. My work blends thoughtful UI, performance-focused code, and a strong product mindset.<br><br>
-
+<strong>Senior Software Engineer</strong> specializing in <strong>cross-platform mobile development</strong> with <code>Flutter 💙</code>, and actively building intelligent experiences powered by <strong>AI</strong>.<br>
+I lead mobile engineering efforts across fintech, wellness, and social platforms — crafting clean, scalable apps for iOS and Android. My work blends thoughtful UI, performance-focused code, and a strong product mindset.<br>
 Currently building with <strong>Flutter, Firebase, Supabase, Riverpod</strong> and exploring the frontier of <strong>LLMs, Bitcoin Lightning, and Fedimint</strong> to push what’s possible in mobile-first ecosystems.
 </p>
 
@@ -25,12 +23,8 @@ Currently building with <strong>Flutter, Firebase, Supabase, Riverpod</strong> a
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ChristineWasike&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
+
 <br>
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChristineWasike&count_private=true&show_icons=true&theme=darcula" />
-  </a>
-</div>
 
 ### 📡 Connect with me
 
